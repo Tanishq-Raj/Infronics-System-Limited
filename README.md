@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Kluy - Web Development & Marketing Agency Website
 
-A modern, responsive website for a web development and marketing agency built with React.
+# Infronics-System-Limited
 
 ## Technologies Used
 
@@ -49,6 +47,4 @@ npm run build
 
 - Node.js 14+
 - npm 6+
-=======
-# Infronics-System-Limited
->>>>>>> 7152e001b1799c791f6a7ca2c3a3cddfcf207588
+
